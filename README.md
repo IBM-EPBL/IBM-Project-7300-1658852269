@@ -1,6 +1,6 @@
 # IBM-Project-7300-1658852269
  
-** Exploratory Analysis of RainFall Data in India for Agriculture **
+**Exploratory Analysis of RainFall Data in India for Agriculture **
 
 > As a part of Professional Readiness for Innovation, Employability and Entrepreneurship [Nalaiya Thiran]
 
